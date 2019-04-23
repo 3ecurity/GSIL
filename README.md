@@ -102,7 +102,9 @@ $ crontab -e
 - [GSIL详细介绍](http://feei.cn/gsil)
 
 ## 注意事项
+```
 1.如果提示缺少GitHub相关模块，可以使用 `pip3 install pygithub` 命令进行安装
 2.host需要改为：smtp.qq.com
 3.password : your_password #这里填写的是授权码
 点击这里查看如何获取授权码 https://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+```
